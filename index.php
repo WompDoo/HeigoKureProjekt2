@@ -10,7 +10,7 @@
         p {color:red;}
     </style>
     <title>
-        Tagide töö
+        Tagide tÃ¶Ã¶
     </title>
 </head>
 
@@ -27,7 +27,7 @@
 <p>Kas olla? <dfn>Olla</dfn>- Ikka olla</p>
 
 <div id="div_dialog">
-    <dialog id="dialog"open>Mis möll on?</dialog>
+    <dialog id="dialog"open>Mis mÃ¶ll on?</dialog>
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 
 <h5 id="heading5">Kes see su siis sisse lasi? <bdo dir="rtl">kes</bdo></h5>
 
-<h6><cite>„Teema“</cite> Autod</h6>
+<h6><cite>â€Teemaâ€œ</cite> Autod</h6>
 
 <blockquote id="quote" cite="https://en.wikipedia.org/wiki/Car">
     A car is a wheeled, self-powered motor vehicle used for transportation.
@@ -69,7 +69,7 @@
 <dl>
     <dt>teema</dt>
     <dd>Bla Bla bla.</dd>
-    <dt>Täis Bla</dt>
+    <dt>TÃ¤is Bla</dt>
     <dd>Bla bla bla Bla BLA.</dd>
 </dl>
 
@@ -83,21 +83,21 @@
 <br>
 
 <details>
-    <summary>Kas pähkel põrkab?</summary>
-    <p> <em>Põrkab!</em> Tubli sul ikka põrkab küll</p>
+    <summary>Kas pÃ¤hkel pÃµrkab?</summary>
+    <p> <em>PÃµrkab!</em> Tubli sul ikka pÃµrkab kÃ¼ll</p>
 </details>
 
 <p>Kas olla? <dfn>Olla</dfn>- Ikka olla</p>
 
 <div id="div_dialog">
-    <dialog id="dialog"open>Mis möll on?</dialog>
+    <dialog id="dialog"open>Mis mÃ¶ll on?</dialog>
 </div>
 
 <br>
 <br>
 <br>
 
-<dialog id="dialog2"open>Jõhker möll on!</dialog>
+<dialog id="dialog2"open>JÃµhker mÃ¶ll on!</dialog>
 
 <br>
 <br>
@@ -192,7 +192,7 @@
 <select id="selection">
     <optgroup label="Olek">
         <option value="Vesi">Vesi</option>
-        <option value="Jaa">Jää</option>
+        <option value="Jaa">JÃ¤Ã¤</option>
     </optgroup>
 </select><br><br>
 
@@ -205,7 +205,7 @@
 </form>
 
 <pre id="pre">
-    Kõik jääb chilliks
+    KÃµik jÃ¤Ã¤b chilliks
 </pre>
 
 <br>
@@ -222,7 +222,7 @@
     </fieldset>
 </form>
 
-<textarea id="txt_area" rows="5">Siin on mu elulugu, ärge haitige</textarea>
+<textarea id="txt_area" rows="5">Siin on mu elulugu, Ã¤rge haitige</textarea>
 
 <progress id="progress_bar" value="69" max="100">69/100</progress>
 
@@ -230,11 +230,11 @@
     <wbr>
     <q>Ei no tegelt oli peeter norm sell
         <wbr>
-        kuid nüüd on tha lahkunud meie seast
+        kuid nÃ¼Ã¼d on tha lahkunud meie seast
         <wbr>
         kuigi ma tead ei teadnud,
         <wbr>
-        arvan, et ta oli parim sõber.
+        arvan, et ta oli parim sÃµber.
         <wbr>
         aga tegelt tahaks teada
         <wbr>
@@ -257,7 +257,7 @@
 </div>
 
 <div id="add_head1">
-    <h1>Paneme pidu nagu täiega(NOT)</h1>
+    <h1>Paneme pidu nagu tÃ¤iega(NOT)</h1>
 </div>
 
 <br>
@@ -272,7 +272,7 @@
     </samp>
 </div>
 
-<p id="methane">Tetrahüdrokannabinoidiga  on THC
+<p id="methane">TetrahÃ¼drokannabinoidiga  on THC
     <sub>Agent 47
     </sub>
 </p>
@@ -330,8 +330,8 @@
 <br>
 
 
-<p>Mina olen sündinud:
-    <time datetime="1995-06-24 21:41">Jaanipäeval
+<p>Mina olen sÃ¼ndinud:
+    <time datetime="1995-06-24 21:41">JaanipÃ¤eval
     </time>
     .
 </p>
@@ -346,8 +346,8 @@
     <source src="vid/KingBach.mp4" type="video/mp4">
 </video>
 
-<p id="jama">see tekst on mõtetu!
-    <u>MÕTETU!</u>
+<p id="jama">see tekst on mÃµtetu!
+    <u>MÃ•TETU!</u>
 </p>
 
 <p id="useful"> See tekst ei ole kasulik < u >.</p>
@@ -388,11 +388,11 @@
 
 <div id="try_counter">
 
-    <h1>Mingi värk</h1>
+    <h1>Mingi vÃ¤rk</h1>
 
-    <h2>mingi värk vol 2</h2>
+    <h2>mingi vÃ¤rk vol 2</h2>
 
-    <h3>Mingi värk vol 3</h3>
+    <h3>Mingi vÃ¤rk vol 3</h3>
 
 </div>
 
