@@ -417,6 +417,8 @@
 <video width="320" height="240" controls>
     <source src="KingBach.mp4" type="video/mp4">
     <source src="KingBack.ogg" type="video/ogg">
+    <track src="subtitles_en.vtt" kind="subtitles" srclang="en" label="English">
+    <track src="subtitles_no.vtt" kind="subtitles" srclang="no" label="Estonian">
 </video>
 
 <marquee id="marq" direction="left">
