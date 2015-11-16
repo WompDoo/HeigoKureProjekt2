@@ -264,6 +264,10 @@
 
 <div id="paragr"><p><s>Kas keegi kuuleb</s> Vist mitte</p></div>
 
+<nav>
+    <a href="http://www.w3schools.com/tags/tag_nav.asp">Nav</a> |
+</nav>
+
 <div class="divis" id="samp">
     <samp>Kast
         <strong>Kast kast
@@ -285,6 +289,20 @@
         </sup>+ a+b+c=f
     </b>
 </p>
+
+<p>Teema teema teema <span style="color:darkred">darkred</span> teema.</p>
+
+<canvas id="myCanvas">Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.fillStyle = "#FF0000";
+    ctx.fillRect(0, 0, 80, 100);
+
+</script>
+
 
 <table id="table" border="2px">
     <caption>Mehiklane Ameeriklane Eestlane venelane</caption>
@@ -395,6 +413,11 @@
     <h3>Mingi värk vol 3</h3>
 
 </div>
+
+<video width="320" height="240" controls>
+    <source src="KingBach.mp4" type="video/mp4">
+    <source src="KingBack.ogg" type="video/ogg">
+</video>
 
 <marquee id="marq" direction="left">
     <marquee behavior="alternate">

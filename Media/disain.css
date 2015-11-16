@@ -1,6 +1,7 @@
 body{
     color: #fffe14;
     background-color: grey;
+    background-origin: content-box;
 }
 
 @media print {
